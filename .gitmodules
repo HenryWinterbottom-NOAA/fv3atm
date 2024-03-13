@@ -10,3 +10,7 @@
   path = ccpp/physics
   url = https://github.com/ufs-community/ccpp-physics
   branch = ufs/dev
+[submodule "upp"]
+	path = upp
+	url = https://github.com/HenryWinterbottom-NOAA/UPP
+	branch = feature/gwdev_issue_2329
